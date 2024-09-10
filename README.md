@@ -85,3 +85,6 @@ The software is designed to run an **event-driven** system where each sensor tri
 ### **4. Traffic Sign Detection**
 - **Challenge**: The color sensor initially had trouble differentiating between red and green traffic signs in varied lighting conditions.
 - **Solution**: We programmed dynamic thresholding based on ambient light conditions. The vehicle now performs a calibration routine at the start of the run to adjust sensor sensitivity according to the lighting environment.
+- # Self-Driving Car for National Robotics Competition
+
+Welcome to the official repository for the Self-Driving Car project. For detailed documentation, including hardware setup, software details, and troubleshooting, please visit our [GitHub Wiki].( https://github.com/mahesh-oss-cloud/Self-driving-Car.wiki.git)
